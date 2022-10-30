@@ -1,3 +1,6 @@
+
+
+//////Hey
 import java.util.Scanner;
 
 public class TestThreadCheckArray {
